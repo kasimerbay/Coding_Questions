@@ -19,10 +19,10 @@ def breakingRecords(scores):
             sumax+=1
     print(sumax,sumin)
 
-#scores = [10,5,20,20,4,5,2,25,1]
+#scores = [10,5,20,20,4,5,2,25,1] #try this list too.
+
 scores = [3,4,21,36,10,28,35,5,24,42]
-for i in range(0,len(scores)):
-    print(i)
+
 
 breakingRecords(scores)
 ```
