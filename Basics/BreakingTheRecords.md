@@ -1,6 +1,8 @@
-# How many times you exceed the thresholds both up and down in a list
 [Visit The Question](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 ```Python
+
+# How many times you exceed the thresholds both up and down in a list
+
 def breakingRecords(scores):
     a = []
     a.append(scores[0])
@@ -17,10 +19,10 @@ def breakingRecords(scores):
             sumax+=1
     print(sumax,sumin)
 
-#scores = [10,5,20,20,4,5,2,25,1]
+#scores = [10,5,20,20,4,5,2,25,1] #try this list too.
+
 scores = [3,4,21,36,10,28,35,5,24,42]
-for i in range(0,len(scores)):
-    print(i)
+
 
 breakingRecords(scores)
 ```
