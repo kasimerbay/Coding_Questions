@@ -1,4 +1,6 @@
-#%% Finding GCD & LCM of A list of numbers breakingRecords() !!!!!
+[Visit The Question](https://www.hackerrank.com/)
+```Python
+#%% Finding GCD & LCM of A list of numbers!!!!!
 
 # LCM of a list of numbers
 def lcm_list(b):
@@ -72,3 +74,4 @@ for i in c:
         print(i)
         
 print(sum)
+```
