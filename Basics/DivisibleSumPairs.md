@@ -1,6 +1,6 @@
 [Visit The Question!](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?h_r=internal-search)
 
-```
+```python
 def divisibleSumPairs(n, k, ar):
     
     sum = 0
